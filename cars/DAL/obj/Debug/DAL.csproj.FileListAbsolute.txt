@@ -1,0 +1,10 @@
+F:\cars\DAL\bin\Debug\DAL.exe.config
+F:\cars\DAL\bin\Debug\DAL.exe
+F:\cars\DAL\bin\Debug\DAL.pdb
+F:\cars\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\cars\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+F:\cars\DAL\obj\Debug\DAL.Properties.Resources.resources
+F:\cars\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\cars\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\cars\DAL\obj\Debug\DAL.exe
+F:\cars\DAL\obj\Debug\DAL.pdb

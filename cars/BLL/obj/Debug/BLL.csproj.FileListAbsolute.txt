@@ -1,0 +1,14 @@
+F:\cars\BLL\bin\Debug\BLL.exe.config
+F:\cars\BLL\bin\Debug\BLL.exe
+F:\cars\BLL\bin\Debug\BLL.pdb
+F:\cars\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\cars\BLL\obj\Debug\BLL.csproj.SuggestedBindingRedirects.cache
+F:\cars\BLL\obj\Debug\BLL.Properties.Resources.resources
+F:\cars\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+F:\cars\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\cars\BLL\obj\Debug\BLL.exe
+F:\cars\BLL\obj\Debug\BLL.pdb
+F:\cars\BLL\bin\Debug\DAL.exe
+F:\cars\BLL\bin\Debug\DAL.pdb
+F:\cars\BLL\bin\Debug\DAL.exe.config
+F:\cars\BLL\obj\Debug\BLL.csproj.CopyComplete
